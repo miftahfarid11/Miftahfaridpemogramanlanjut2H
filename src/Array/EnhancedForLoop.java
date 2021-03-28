@@ -5,7 +5,6 @@ public class EnhancedForLoop {
         int total = 0;
         for(int x : arr){
             total += x;
-
         }
     }
 }
