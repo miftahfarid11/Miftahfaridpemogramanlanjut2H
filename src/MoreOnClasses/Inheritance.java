@@ -8,6 +8,8 @@ public class Inheritance {
     class Dog extends Inheritance{
     }
     class A {
+        public int x;
+
         public static void main(String[] args) {
             Dog dog = new Dog();
             dog.makeSound();
