@@ -1,7 +1,7 @@
 package Array;
 
-public class MultidimensionalArrays2 {
-    public static void main(String[] args) {
+public class Module3Quiz1 {
+    public static void main(String[] args){
         int result = 0;
         for (int i = 0; i < 5; i++) {
             if (i == 3) {
@@ -11,5 +11,6 @@ public class MultidimensionalArrays2 {
             }
         }
         System.out.println(result);
+
     }
 }
