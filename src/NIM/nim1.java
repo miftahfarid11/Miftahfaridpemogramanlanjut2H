@@ -1,7 +1,7 @@
 package NIM;
 import java.util.Scanner;
 public class nim1 {
-    public void NIMRUN() {
+    public void nim1() {
     }
 
     public static void main(String[] args) {
